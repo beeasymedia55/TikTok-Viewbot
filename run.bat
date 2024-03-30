@@ -1,0 +1,2 @@
+python viewbot.py
+pause
